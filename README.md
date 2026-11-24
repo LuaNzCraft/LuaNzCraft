@@ -16,7 +16,7 @@ Meu interesse não termina quando o código funciona: gosto de pensar na identid
 
 - 🎨 Crio ferramentas que ajudam outras pessoas a produzir e personalizar conteúdo.
 - 🎮 Gosto de jogos 2D, sistemas interativos e projetos com personalidade.
-- 🫂 Construo experiências pensadas para comunidades online.
+- ✨ Construo experiências pensadas para comunidades online.
 - ✨ Tento fazer cada projeto parecer algo feito por alguém, e não apenas por uma máquina.
 
 ## Projetos em destaque
